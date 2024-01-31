@@ -15,7 +15,7 @@ I’m interested in the following areas:
 - Cyber Security
 - Discord Bot Development
 
-However, in comming future I am going to develop more at these topics. I am going to more focus on Data Science, ML, QML, Math, QC and Discord Bot development. If I have still plenty of time left I would put that into exploring others too.
+However, in comming future I am going to develop more at these topics. I am going to more focus on Data Science, ML, QML, Math, QC and Discord Bot development. If I have still plenty of time left I would put that into exploring others too. Meanwhile, till now I have worked on Django, HTML, CSS but I didn't inform because they are not the part of my domain. 
 ## Further Contacts
 You can reach me on few places as I use less social media.
 ### Discord
