@@ -24,6 +24,7 @@ I am open for collaboration and help with the Ecoi Project. 🤝
 
 ## 🌈 My Interests
 I’m interested in the following areas:
+
 ![Quantum Computing](https://img.shields.io/badge/Quantum%20Computing-%23000000.svg?style=for-the-badge&logo=quantum-computing&logoColor=white&color=blue) ![Mathematics](https://img.shields.io/badge/Mathematics-%23000000.svg?style=for-the-badge&logo=mathematica&logoColor=white&color=red) ![Data Science](https://img.shields.io/badge/Data%20Science-%23000000.svg?style=for-the-badge&logo=data-science&logoColor=white&color=green) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23000000.svg?style=for-the-badge&logo=machine-learning&logoColor=white&color=purple) ![Quantum Machine Learning](https://img.shields.io/badge/Quantum%20Machine%20Learning-%23000000.svg?style=for-the-badge&logo=quantum-machine-learning&logoColor=white&color=orange) ![Cryptography](https://img.shields.io/badge/Cryptography-%23000000.svg?style=for-the-badge&logo=cryptography&logoColor=white&color=teal) ![Steganography](https://img.shields.io/badge/Steganography-%23000000.svg?style=for-the-badge&logo=steganography&logoColor=white&color=cyan) ![Quantum Cryptography](https://img.shields.io/badge/Quantum%20Cryptography-%23000000.svg?style=for-the-badge&logo=quantum-cryptography&logoColor=white&color=magenta) ![Cyber Security](https://img.shields.io/badge/Cyber%20Security-%23000000.svg?style=for-the-badge&logo=cyber-security&logoColor=white&color=yellow) ![Discord Bot Development](https://img.shields.io/badge/Discord%20Bot%20Development-%23000000.svg?style=for-the-badge&logo=discord&logoColor=white&color=blue)
 
 In the coming future, I am going to develop more in these topics. I am going to focus more on Data Science, ML, QML, Math, QC, and Discord Bot development. If I have plenty of time left, I would put that into exploring others too. Meanwhile, till now I have worked on Django, HTML, CSS but I didn't inform because they are not part of my domain.
@@ -60,9 +61,18 @@ In the coming future, I am going to develop more in these topics. I am going to 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)  
 
 ## 🌐 Socials:
+### Profiles
 <a href="https://discordapp.com/users/1144930076144697375">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
 </a>
 <a href="https://linkedin.com/in/adamahmedyahya">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
 </a>
+
+### Discord Servers
+
+- **Ecoi Support Server** <br>
+  <a href="[https://linkedin.com/in/adamahmedyahya](https://discord.gg/p9w4pGHRt7)"><img src="https://img.shields.io/badge/Discord-%230077B5.svg?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" /></a>
+
+- **Developer Server** <br>
+  <a href="[https://linkedin.com/in/adamahmedyahya](https://discord.gg/MAUXDGJxGe)"><img src="https://img.shields.io/badge/Discord-%230077B5.svg?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" /></a> 
