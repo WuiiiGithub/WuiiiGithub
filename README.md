@@ -20,7 +20,7 @@ I am open for collaboration and help with the Ecoi Project. 🤝
 ![](https://github-readme-streak-stats.herokuapp.com/?user=WuiiiGithub&theme=transparent&hide_border=false) &emsp; ![](https://github-readme-stats.vercel.app/api?username=WuiiiGithub&theme=transparent&hide_border=false&include_all_commits=true&count_private=true) 
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WuiiiGithub&theme=transparent&hide_border=false&include_all_commits=true&count_private=true) &emsp; ![](https://github-contributor-stats.vercel.app/api?username=WuiiiGithub&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=WuiiiGithub&limit=5&theme=transparent&combine_all_yearly_contributions=true)  &emsp; ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WuiiiGithub&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
 
 ## 🌈 My Interests
 I’m interested in the following areas:
