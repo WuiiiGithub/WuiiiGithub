@@ -8,6 +8,7 @@ I’m @WuiiiGithub. I hope you are all doing well. 🌟 I am a curious guy, stud
 ### 🌟 Current Projects:
 - **Economic Credit Operations Infrastructure [Ecoi]** 💼
 - **Quantum Secure Communications via Qiskit and IBM Cloud Quantum Computers** 🖥️
+- **College Collaboration Project** 🎓
 
 I am open for collaboration and help with the Ecoi Project. 🤝
 
@@ -16,12 +17,18 @@ I am open for collaboration and help with the Ecoi Project. 🤝
 - 📊 **Data Science BootCamp**  Course via GFG (As a part of my revision)
 - 💻 **Express** Frameworks  and **DBMS**  in College and NPTEL course
 
+## Code Organization
+- [**WuiiiGithub**](https://github.com/WuiiiGithub/WuiiiGithub) : My projects and work I am doing.
+- [**WuiiiLabs**](https://github.com/WuiiiLabs) : Here, I try to produce my products and make products. (My github organization) for product projects.
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=WuiiiGithub&theme=transparent&hide_border=false) &emsp; ![](https://github-readme-stats.vercel.app/api?username=WuiiiGithub&theme=transparent&hide_border=false&include_all_commits=true&count_private=true) 
 
 
+
 ![](https://github-contributor-stats.vercel.app/api?username=WuiiiGithub&limit=5&theme=transparent&combine_all_yearly_contributions=true)  &emsp; ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WuiiiGithub&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
 
+![](https://github-profile-trophy.vercel.app/?username=abc&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
 ## 🌈 My Interests
 I’m interested in the following areas:
 
