@@ -3,7 +3,7 @@
 ## 💫 About Me:
 Hi Cutieee people,
 
-I’m @WuiiiGithub. I hope you are all doing well. 🌟 I am a curious guy, studying for my bachelor's degree. 🎓 I explore a lot of topics in various domains. 🌐 I post here things that I find interesting and difficult to access. The world has progressed a lot through Open Source. 🌍 Whenever I find things difficult to access because they are not open source, I love to put my work, which I learned the hard way, out in the open for the world. I love helping people in this manner. ❤️
+I’m [`@WuiiiGithub`](https://github.com/WuiiiGithub). I hope you are all doing well. 🌟 I am a curious guy, studying for my bachelor's degree. 🎓 I explore a lot of topics in various domains. 🌐 I post here things that I find interesting and difficult to access. The world has progressed a lot through Open Source. 🌍 Whenever I find things difficult to access because they are not open source, I love to put my work, which I learned the hard way, out in the open for the world. I love helping people in this manner. ❤️
 
 ### 🌟 Current Projects:
 - **Economic Credit Operations Infrastructure [Ecoi]** 💼
@@ -18,17 +18,31 @@ I am open for collaboration and help with the Ecoi Project. 🤝
 - 💻 **Express** Frameworks  and **DBMS**  in College and NPTEL course
 
 ## Code Organization
-- [**WuiiiGithub**](https://github.com/WuiiiGithub/WuiiiGithub) : My projects and work I am doing.
-- [**WuiiiLabs**](https://github.com/WuiiiLabs) : Here, I try to produce my products and make products. (My github organization) for product projects.
+I have divided my coding projects in mainly 2 cateogories. 
+### [**WuiiiGithub**](https://github.com/WuiiiGithub) 
+These are normal projects which I personally do this may include college lab codes & their extensions, codes to solve a perticular problem, college project codes, personal projects codes, research project codes...etc. 
+### [**WuiiiLabs**](https://github.com/WuiiiLabs) 
+This account is an organizational account and contains products of mine. Actually, the projects which are long enough such that they can be products for the commuity, I post it here. 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=WuiiiGithub&theme=transparent&hide_border=false) &emsp; ![](https://github-readme-stats.vercel.app/api?username=WuiiiGithub&theme=transparent&hide_border=false&include_all_commits=true&count_private=true) 
+![](https://github-readme-streak-stats.herokuapp.com?user=WuiiiGithub&theme=telegram-gradient&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&card_width=200&card_height=200&background=35%2CC687FF%2C0BA8FF&border=1799EB66&fire=FFEA00&stroke=94EBDE&ring=C7EBE6&currStreakNum=EBEBEB&hide_current_streak=true&hide_longest_streak=true) &nbsp; ![](https://github-readme-streak-stats.herokuapp.com?user=WuiiiGithub&theme=telegram-gradient&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&card_width=200&card_height=200&border=1799EB66&fire=FFF792&stroke=94EBDE&ring=FFFFC0&currStreakNum=FFFDE7&sideLabels=FFFFFF&dates=FFFFFF&background=75%2CC687FF%2C0BA8FF&hide_total_contributions=true&hide_longest_streak=true) &nbsp; ![](https://github-readme-streak-stats.herokuapp.com?user=WuiiiGithub&theme=telegram-gradient&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&card_width=200&card_height=200&border=1799EB66&fire=FFEA00&stroke=94EBDE&ring=C7EBE6&currStreakNum=EBEBEB&sideLabels=FFFFFF&dates=FFFFFF&background=75%2CC687FF%2C0BA8FF&hide_total_contributions=true&hide_current_streak=true)
+
+
+![](https://github-readme-stats.vercel.app/api?username=WuiiiGithub&show_icons=true&hide_border=true&bg_color=0,ee82ee,1e90ff&title_color=fff&text_color=fff&icon_color=ffffe0&include_all_commits=true&count_private=true&line_height=27&border_radius=10&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WuiiiGithub&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&bg_color=45,ee82ee,1e90ff&title_color=ffffff&text_color=ffffff&icon_color=ffffe0)
+
+<div style="background: linear-gradient(90deg, #ee82ee, #1e90ff); padding: 10px; border-radius: 10px; display: inline-block; width:350px; height:400px;" >
+    <h3 style="margin: 0; text-align: center; color:white"> Trophies </h3>
+    <div style="padding: 10px; border-radius: 10px;">
+        <img src="https://github-profile-trophy.vercel.app/?username=abc&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4&bg_color=0,ee82ee,1e90ff&icon_color=ffffe0&column=3&margin-w=15&margin-h=15" alt="WuiiiGithub's Profile Trophy" style="border-radius: 10px;" />
+    </div>
+</div> 
 
 
 
-![](https://github-contributor-stats.vercel.app/api?username=WuiiiGithub&limit=5&theme=transparent&combine_all_yearly_contributions=true)  &emsp; ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WuiiiGithub&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://github-profile-trophy.vercel.app/?username=abc&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
+
+
+
 ## 🌈 My Interests
 I’m interested in the following areas:
 
